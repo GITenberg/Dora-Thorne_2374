@@ -1,0 +1,33 @@
+_repo: Dora-Thorne_2374
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Brame, Charlotte Mary
+    - Braeme, Charlotte Monica
+    - Clay, Bertha M.
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: Though acclaimed romance novelist Charlotte M. Brame penned hundreds
+  of short stories and book-length tales over the course of her illustrious literary
+  career, fans and critics alike regard Dora Thorne as her most popular creation.
+  This epic tale centers around romance that blooms among partners of different social
+  classes. Is lasting love possible when the social pressure to say goodbye is so
+  intense? Read Dora Thorne to find out.
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Great Britain -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Dora Thorne
+url: http://www.gutenberg.org/ebooks/2374
