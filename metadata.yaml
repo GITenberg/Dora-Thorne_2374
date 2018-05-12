@@ -1,5 +1,8 @@
 _repo: Dora-Thorne_2374
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brame, Charlotte M.
@@ -17,6 +20,8 @@ description: Though acclaimed romance novelist Charlotte M. Brame penned hundred
   This epic tale centers around romance that blooms among partners of different social
   classes. Is lasting love possible when the social pressure to say goodbye is so
   intense? Read Dora Thorne to find out.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2374#Dora-Thorne
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
